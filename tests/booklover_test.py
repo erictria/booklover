@@ -1,3 +1,6 @@
+import sys
+sys.path.append('..')
+
 from booklover.booklover import BookLover
 import unittest
 
