@@ -5,5 +5,7 @@ Booklover.egg-info/PKG-INFO
 Booklover.egg-info/SOURCES.txt
 Booklover.egg-info/dependency_links.txt
 Booklover.egg-info/top_level.txt
-src/booklover/__init__.py
-src/booklover/booklover.py
+booklover/__init__.py
+booklover/booklover.py
+tests/__init__.py
+tests/booklover_test.py

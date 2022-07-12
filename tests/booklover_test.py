@@ -1,4 +1,4 @@
-from src.booklover.booklover import BookLover
+from booklover.booklover import BookLover
 import unittest
 
 class BookLoverTestSuite(unittest.TestCase):
